@@ -5,7 +5,7 @@ new Vue({
 
     //   boshlangich ma'lumotlar
     productImages: {
-        "Electronics": "/home/aaasm/Desktop/feature/front/HOMETASKS/hometask13/img/Laptop-Free-Download-PNG.png"
+        "Electronics": "./img/Laptop-Free-Download-PNG.png"
     },
     products: [
       { name: 'Laptop', price: 1200, category: 'Electronics', available: true, showDetails: "16-core Neural Engine 100GB/s memory bandwidth", photo: null, isShow: false },
